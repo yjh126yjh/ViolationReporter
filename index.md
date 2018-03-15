@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 项目开发背景
+
+众所周知， 我国是一个13亿人口的大国，其中90%的道路属于机动车与非机动车和行人混杂，近几年机动车急剧增加，道路超负荷承载，致使交通事故逐年增加。在我国很多城市都会出现交通拥堵的现象，除了车流量陡然增大的原因，驾驶员争道抢行、违规掉头、行人乱穿公路、车辆乱停违停等交通不文明行为也是造成拥堵的重要原因。
 
 You can use the [editor on GitHub](https://github.com/yjh126yjh/ViolationReporter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
